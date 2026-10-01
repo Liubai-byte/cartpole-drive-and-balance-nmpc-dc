@@ -1,5 +1,7 @@
 # Cartpole Swing-up and Position Control
 
+![Cartpole swing-up and drive to target](assets/swingup_10m.gif)
+
 Control an inverted-pendulum cart with a single input: the horizontal force applied to the cart. Starting from a stationary cart and a pendulum hanging straight down, the controller must swing the pendulum up to the upright position while driving the cart to a specified target location, then hold both the cart position and the pendulum stable.
 
 Two optimal control methods are implemented:
