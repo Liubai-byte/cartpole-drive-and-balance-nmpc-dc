@@ -19,6 +19,8 @@ Two optimal control methods are implemented:
 | Pendulum angle `θ` | π (hanging down) | 0 (upright) |
 | Pendulum angular velocity `θ̇` | 0 | 0 |
 
+## Project Date: 2025.12 - 2026.2
+
 # 倒立摆小车：摆起与定位控制
 
 本项目实现倒立摆小车的摆起与定位任务。控制输入只有一个：作用在小车上的水平力。系统从静止、摆杆自然竖直下垂的状态出发，需要把摆杆摆动至倒立位置，同时驱动小车到达指定目标点并停车，最终保持摆杆稳定直立。
@@ -37,3 +39,5 @@ Two optimal control methods are implemented:
 | 小车速度 `ẋ` | 0 | 0 |
 | 摆杆角度 `θ` | π（下垂） | 0（直立） |
 | 摆杆角速度 `θ̇` | 0 | 0 |
+
+项目日期：2025.12 - 2026.2
